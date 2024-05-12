@@ -967,3 +967,11 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+
+/*Container*/
+.container {
+	width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
